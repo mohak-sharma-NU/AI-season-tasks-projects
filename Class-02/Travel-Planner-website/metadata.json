@@ -1,0 +1,6 @@
+{
+  "name": "Travel-Planner-Website Tourism Operations",
+  "description": "Travel planning, route scheduling, and fleet inventory manager for the Travel-Planner-Website tourism wing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
